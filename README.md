@@ -1,3 +1,8 @@
+## Problem 1 Solution
+sample run:
+> python3 test.py part.STL 0,-1,0 .75
+A matplot window will show up with the blue being OKAY parts of the model and red being parts of the model that exceed the given overhang angle.
+
 ## Relativity Space - Candidate Project
 This readme contains problems that candidates can choose to work on as a take-home project
 
